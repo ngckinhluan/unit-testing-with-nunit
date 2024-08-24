@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PrimeService\PrimeService.csproj" />
+    <ProjectReference Include="..\StudentService\StudentService.csproj" />
   </ItemGroup>
 
   <ItemGroup>
